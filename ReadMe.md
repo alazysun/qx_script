@@ -1,6 +1,6 @@
 #### 说明
 
-`private script`
+`private, self use`
 
 
 
