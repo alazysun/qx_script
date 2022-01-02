@@ -1,6 +1,6 @@
 #### 说明
 
-`private, self use`
+`private`
 
 
 
